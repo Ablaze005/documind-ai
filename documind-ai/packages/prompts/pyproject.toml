@@ -1,0 +1,6 @@
+[project]
+name = "documind-prompts"
+version = "0.1.0"
+description = "Prompt templates for DocuMind AI"
+requires-python = ">=3.12"
+dependencies = []

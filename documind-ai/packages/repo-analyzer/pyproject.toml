@@ -1,0 +1,6 @@
+[project]
+name = "documind-repo-analyzer"
+version = "0.1.0"
+description = "Repository analysis utilities for DocuMind AI"
+requires-python = ">=3.12"
+dependencies = []

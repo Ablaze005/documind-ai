@@ -1,0 +1,6 @@
+[project]
+name = "documind-doc-generator"
+version = "0.1.0"
+description = "Documentation generation utilities for DocuMind AI"
+requires-python = ">=3.12"
+dependencies = []

@@ -1,0 +1,6 @@
+[project]
+name = "documind-shared"
+version = "0.1.0"
+description = "Shared models and utilities for DocuMind AI"
+requires-python = ">=3.12"
+dependencies = []
